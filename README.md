@@ -5,3 +5,5 @@
 
 - <b><a href="https://github.com/jvanegas0024-sudo/Active-Directory-Project">Active-Directory-Project</a></b>
 
+- <b><a href="https://github.com/jvanegas0024-sudo/Wazuh-SIEM/blob/main/README.md">Wazuh-SIEM-Project</a></b>
+
